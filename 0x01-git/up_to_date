@@ -1,4 +1,9 @@
-git add .
+##This line is to get the remote changes to local directory
+git pull origin main
+##Adding new file
+git add . 
+##commit the new file
 git commit -m "How to be up to date in git"
+##push to online repo
 git push origin main
 
